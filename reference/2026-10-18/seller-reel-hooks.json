@@ -1,0 +1,201 @@
+{
+  "title": "Meesho seller Reel references, 2026-10-18",
+  "purpose": "Format study for the @mee.ship team. Watch these, then shoot our OWN original versions. The footage belongs to other creators: never post it, re-upload it or use it in a @mee.ship edit.",
+  "clip": "seller-reel-hooks.mp4",
+  "clip_notes": "The first 3.5s of each of the 9 source Reels, back to back (31.5s, 720x1280). The yellow R-number top left shows which source is playing.",
+  "full_sources": "The full source Reels, contact sheets and a written breakdown are in the project folder (social/reel-refs/2026-10-18/). They aren't in this repo.",
+  "how_to_use": [
+    "Pick a format from 'formats_to_shoot'.",
+    "Use the 'shots' list of a matching source as a shot list: film the same kind of shot with our own phone, products and parcels.",
+    "Record our own Hinglish voice line with one real number from our own panel, and one lesson.",
+    "Keep it phone-shot, normal light, real sound. That's why these look real, not AI."
+  ],
+  "hooks_clip_map": [
+    { "source": "R1", "start": 0.0, "end": 3.5 },
+    { "source": "R2", "start": 3.5, "end": 7.0 },
+    { "source": "R3", "start": 7.0, "end": 10.5 },
+    { "source": "R4", "start": 10.5, "end": 14.0 },
+    { "source": "R5", "start": 14.0, "end": 17.5 },
+    { "source": "R6", "start": 17.5, "end": 21.0 },
+    { "source": "R7", "start": 21.0, "end": 24.5 },
+    { "source": "R8", "start": 24.5, "end": 28.0 },
+    { "source": "R9", "start": 28.0, "end": 31.5 }
+  ],
+  "sources": [
+    {
+      "id": "R1",
+      "duration_s": 58.3,
+      "language": "Telugu",
+      "format": "Daily challenge vlog: 'Day 1 of 5 lakh sales in 30 days'",
+      "copy_this": true,
+      "hook": "VO: 'From today we start a challenge: 5 lakh sales in 30 days' over a floor covered in parcels.",
+      "voiceover_summary": "Today 151 orders, ₹32,463 sales. Each day I'll share my sales plus one Meesho problem and its fix. Day 1 fix: a price calculator (enter product cost + shipping, get the listing price). Next video: how to reduce returns. Follow for day 2.",
+      "shots": [
+        { "start": 0, "end": 5, "shows": "Seller sitting on a floor covered in packed parcels, handheld", "use_for": "Opening shot for a 'Day N' series; proof of volume" },
+        { "start": 5, "end": 8, "shows": "Text '5 Lakhs Sales in 30 days' over the parcel floor", "use_for": "Series title card, one line of text over real footage" },
+        { "start": 8, "end": 13, "shows": "Text 'Welcome to Day one of 30 days challenge', camera pans the floor and shelves", "use_for": "Episode number in every video, so people follow for the next one" },
+        { "start": 13, "end": 18, "shows": "Laptop screen, label download page, text 'Today order 151'", "use_for": "Today's real order count from our own panel (blur buyer names)" },
+        { "start": 18, "end": 21, "shows": "Laptop sales dashboard, text 'Total sales ₹32,463'", "use_for": "One real number per video" },
+        { "start": 21, "end": 30, "shows": "Thermal printer label strip pouring onto a big heap of labels", "use_for": "Volume b-roll; pairs with the label crop tool" },
+        { "start": 30, "end": 41, "shows": "Walk over a floor of packed parcels, seller packing", "use_for": "B-roll under the VO" },
+        { "start": 41, "end": 50, "shows": "Excel costing sheet on the laptop (product cost, shipping, returns, profit) with a 'SHARE' sticker", "use_for": "The tip of the day shown on a real screen; we'd show our profit calculator here" },
+        { "start": 50, "end": 58, "shows": "Packing on the floor, 'Like Comment Share Follow' text, then 'Follow for day 2'", "use_for": "Ending: ask to follow for the next episode" }
+      ]
+    },
+    {
+      "id": "R2",
+      "duration_s": 55.8,
+      "language": "Hindi (female seller)",
+      "format": "Day-in-the-life story told in first person",
+      "copy_this": true,
+      "hook": "VO: 'Whatever happens, happens for the best. Today I got 181 orders on Meesho' over a huge purple parcel pile.",
+      "voiceover_summary": "181 orders, wondering how to pack them all; cousins arrive and help pack. Count and separate by courier. Pickup comes. Returns: 24 courier returns, 4 customer returns. Courier returns only lose packaging; customer returns are the real loss.",
+      "shots": [
+        { "start": 0, "end": 6, "shows": "Close handheld pan over a big pile of packed purple Meesho parcels", "use_for": "Hook visual: 'Aaj X orders aaye'" },
+        { "start": 6, "end": 10, "shows": "Family members arrive and start packing, one smiles at the camera", "use_for": "Human, family-business angle; makes it relatable" },
+        { "start": 10, "end": 29, "shows": "Woman packing and sorting parcels on the floor next to the pile", "use_for": "Packing b-roll under the story VO" },
+        { "start": 29, "end": 32, "shows": "Stack of cartons by the wall, empty cartons on the floor", "use_for": "Transition: packing done, ready for pickup" },
+        { "start": 32, "end": 35, "shows": "Man laughing (comedy cut-in)", "use_for": "Reaction beat; we'd use Yash's own reaction clip" },
+        { "start": 35, "end": 43, "shows": "Filling and carrying a big carton of parcels", "use_for": "Handover to the courier" },
+        { "start": 43, "end": 56, "shows": "Sorting and opening returned packets on the floor", "use_for": "Returns lesson: courier vs customer returns" }
+      ]
+    },
+    {
+      "id": "R3",
+      "duration_s": 42.0,
+      "language": "Hindi",
+      "format": "One continuous shot plus one pain point",
+      "copy_this": true,
+      "hook": "VO: 'This is Meesho customer returns' as the camera dives into a heap of Shadowfax/Delhivery return packets.",
+      "voiceover_summary": "Customer returns eat the seller's whole profit; the seller pays a reverse delivery charge on every packet (they say ₹175 each; not verified by us). Look how many there are.",
+      "shots": [
+        { "start": 0, "end": 14, "shows": "Single handheld shot moving over a huge pile of courier return packets", "use_for": "The whole Reel can be ONE shot plus our VO: cheapest format to make" },
+        { "start": 14, "end": 16, "shows": "Hand gesturing over the pile", "use_for": "Pointing beat while saying the number" },
+        { "start": 16, "end": 42, "shows": "Hand pulling and showing individual return packets, then a wide shot of the pile", "use_for": "Show one bad return close up, then the lesson (e.g. how to cut returns)" }
+      ],
+      "caution": "Don't repeat their ₹175 figure as fact; use our own numbers."
+    },
+    {
+      "id": "R4",
+      "duration_s": 38.5,
+      "language": "Song only (bhajan)",
+      "format": "Devotional song over warehouse b-roll, no talking",
+      "copy_this": false,
+      "hook": "Man standing in a room flooded with printed labels.",
+      "shots": [
+        { "start": 0, "end": 7, "shows": "Man standing knee-deep in a sea of printed shipping labels", "use_for": "Strong volume visual; shoot our own version of a label heap" },
+        { "start": 7, "end": 12, "shows": "Tablet showing the Meesho orders page and Ready to Ship tab", "use_for": "Order count proof shot" },
+        { "start": 12, "end": 19, "shows": "Man pulling a long label strip from the printer", "use_for": "Label printing b-roll (label crop tool Reels)" },
+        { "start": 19, "end": 22, "shows": "Close-up of a hand fanning a thick roll of labels", "use_for": "Close detail shot" },
+        { "start": 22, "end": 27, "shows": "Table covered with packed parcels, dark floor of parcels", "use_for": "Parcel pile b-roll" },
+        { "start": 27, "end": 38.5, "shows": "Men sorting parcels into big sacks while checking a phone", "use_for": "Dispatch and sorting b-roll" }
+      ],
+      "why_not": "Borrowed song, no lesson; brings views but not seller followers."
+    },
+    {
+      "id": "R5",
+      "duration_s": 30.5,
+      "language": "Hindi (female seller)",
+      "format": "Printer-pour hook plus a promise of tips",
+      "copy_this": true,
+      "hook": "Labels pouring out of a thermal printer with '+500 orders' text at the top. VO: 'I have 500+ orders, see how fast my labels are printing'.",
+      "voiceover_summary": "How to get this many orders, in 3 steps: dispatch the same day; focus on packaging; better packaging means better ratings means more customers. Follow for the next video.",
+      "shots": [
+        { "start": 0, "end": 15, "shows": "Static shot of a thermal printer pushing out a long strip of labels that piles on the floor, '+500 orders' text at top", "use_for": "Best visual hook of the set. Our version: our printer, our real order count, then the label crop tip" },
+        { "start": 15, "end": 30.5, "shows": "Close-up of hands flipping through a thick stack of printed labels", "use_for": "B-roll under tips; also good for the label crop + invoice Reel" }
+      ]
+    },
+    {
+      "id": "R6",
+      "duration_s": 30.0,
+      "language": "Hindi",
+      "format": "Motivation math plus a course ad (ends with a phone number)",
+      "copy_this": false,
+      "hook": "VO: 'Can we earn 1 crore?' over the panel showing Ready to Ship (1102).",
+      "shots": [
+        { "start": 0, "end": 3, "shows": "Laptop with the Meesho panel, 'Ready to Ship (1102)'", "use_for": "Order count proof shot" },
+        { "start": 3, "end": 6, "shows": "Laptop dashboard 'Total Sales ₹12.77L'", "use_for": "Sales number shot" },
+        { "start": 6, "end": 9, "shows": "Very long label strip laid out across the floor, man holding it", "use_for": "Fun volume visual: the label strip as long as the room" },
+        { "start": 9, "end": 12, "shows": "Warehouse staff loading cartons on a trolley", "use_for": "Warehouse b-roll" },
+        { "start": 12, "end": 15, "shows": "Man at a desk spreading out printed labels", "use_for": "Label handling b-roll" },
+        { "start": 15, "end": 24, "shows": "Walls of stacked cartons with labels, staff working", "use_for": "Scale b-roll" },
+        { "start": 24, "end": 27, "shows": "Man walking past cartons, text 'Don't wait n just start today itself' + phone number", "use_for": "Don't copy: course/lead-gen ending" },
+        { "start": 27, "end": 30, "shows": "Panel close-up 'Ready to Ship (311)'", "use_for": "Order count proof shot" }
+      ],
+      "why_not": "Income promise ('1 crore') plus a course pitch; the opposite of our trust angle."
+    },
+    {
+      "id": "R7",
+      "duration_s": 14.5,
+      "language": "Hindi",
+      "format": "Motivational one-liner over parcel piles",
+      "copy_this": false,
+      "hook": "Huge pile of parcels on a white sheet; VO: 'This market has only one problem, nobody understands it quickly'.",
+      "shots": [
+        { "start": 0, "end": 1.3, "shows": "Tall pile of packed parcels on a sheet", "use_for": "Pile b-roll" },
+        { "start": 1.3, "end": 5.5, "shows": "Parcel piles at night and on a truck bed", "use_for": "Night dispatch b-roll" },
+        { "start": 5.5, "end": 14.5, "shows": "Massive parcel pile in a yard while a truck is loaded in the background", "use_for": "Scale shot for a 'pickup day' Reel" }
+      ],
+      "why_not": "No lesson, motivation bait."
+    },
+    {
+      "id": "R8",
+      "duration_s": 21.3,
+      "language": "English podcast audio (borrowed)",
+      "format": "Borrowed podcast clip over b-roll, with the order count pinned on screen",
+      "copy_this": "partly",
+      "hook": "Phone showing the Meesho app home (pending orders 251).",
+      "shots": [
+        { "start": 0, "end": 3, "shows": "Phone screen: Meesho supplier app home, pending orders", "use_for": "Order count proof shot" },
+        { "start": 3, "end": 7, "shows": "Packed pink and orange parcels on a table", "use_for": "Parcel b-roll" },
+        { "start": 7, "end": 11, "shows": "Tailors stitching garments", "use_for": "'Where the product is made' shot, if we have a supplier" },
+        { "start": 11, "end": 16, "shows": "Parcels on the floor; man in red packing them into a carton", "use_for": "Packing b-roll" },
+        { "start": 16, "end": 21.3, "shows": "Carrying cartons to a truck, handing over to the courier", "use_for": "Pickup/handover ending" }
+      ],
+      "trick_to_copy": "A screenshot strip of 'Ready to Ship (257)' pinned at the top of the frame for the whole Reel: proof stays on screen while b-roll plays.",
+      "why_not": "Borrowed audio."
+    },
+    {
+      "id": "R9",
+      "duration_s": 14.9,
+      "language": "Hindi (life quote)",
+      "format": "Unrelated quote audio over b-roll",
+      "copy_this": false,
+      "hook": "Floor full of grey/purple parcels.",
+      "shots": [
+        { "start": 0, "end": 2, "shows": "Pile of packed parcels against a wall", "use_for": "Pile b-roll" },
+        { "start": 2, "end": 5, "shows": "Man packing next to a stack of red product boxes", "use_for": "Packing b-roll" },
+        { "start": 5, "end": 10, "shows": "Close handheld over parcels, a hand picking one", "use_for": "Close detail b-roll" },
+        { "start": 10, "end": 12, "shows": "Jewellery tray held up by a hand", "use_for": "Product close-up" },
+        { "start": 12, "end": 15, "shows": "Open empty cartons with small items", "use_for": "Packing setup shot" }
+      ],
+      "why_not": "Audio unrelated to selling."
+    }
+  ],
+  "formats_to_shoot": [
+    {
+      "name": "Seller Diary (Day N)",
+      "based_on": ["R1", "R2"],
+      "length_s": "30-45",
+      "beats": "Day N title over parcels, then today's real order count on screen, then one problem, then one fix (sometimes our free tool on a real screen), then 'Follow for Day N+1'."
+    },
+    {
+      "name": "One-shot pain",
+      "based_on": ["R3"],
+      "length_s": "15",
+      "beats": "One handheld shot (return pile, label mess, damaged parcel) plus our VO: one real number from our sheet, then one fix."
+    },
+    {
+      "name": "Printer-pour hook",
+      "based_on": ["R5", "R8"],
+      "length_s": "15",
+      "beats": "2s of labels pouring with the real order count pinned at the top, then the tip (e.g. label crop + invoices)."
+    }
+  ],
+  "do_not": [
+    "Post or re-edit this footage; shoot our own or use a seller's clips with their written OK and a caption credit.",
+    "Use income promises ('1 crore') or course/phone-number endings.",
+    "Use borrowed songs or podcasts as the main audio.",
+    "Repeat other creators' numbers as facts."
+  ]
+}
